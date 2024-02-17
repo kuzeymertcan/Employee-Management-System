@@ -1,0 +1,2 @@
+# Employee Management System
+ This repository contains code for a basic employee management system in Java. The primary focus is on the `Employee` class, which encapsulates attributes like name, social security number, wage, and working hours. The `Main` class showcases the creation of an employee object, setting its attributes, and presenting comprehensive employee information, encompassing details such as name, social security number, wage, working hours, and a calculated salary based on the provided hourly wage and worked hours.
